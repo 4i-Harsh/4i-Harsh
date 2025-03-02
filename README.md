@@ -2,12 +2,20 @@
 
 ###
 
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xoMnF0eWQzaWF4eHJrc3A1MXczZTBlenZvNnJydDl0dG95c3h5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
+
+###
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=4i-Harsh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4i-Harsh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -55,11 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2xoMnF0eWQzaWF4eHJrc3A1MXczZTBlenZvNnJydDl0dG95c3h5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"  />
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/__hxrshdalvi__/" target="_blank">
@@ -74,6 +78,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/4i-Harsh/4i-Harsh/output/snake.svg" alt="Snake animation" />
 
 ###
