@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-# 👨‍💻 Hey 👋, I'm Harsh Dalvi!<br>- Computer Engineering student at FR.CRCE<br>- 👀 I’m interested in backend<br>- 🌱 I’m currently learning django<br>- 📫 How to reach me @__hxrshdalvi__<br>- 🏆 Webathon 2024 Winner<br>- 🏆 NIT Raipur (CodeUtsava 8.0)<br>- 🏅 SIH 2024 Finalist<br>
+👨‍💻 Hey 👋, I'm Harsh Dalvi!<br>- Computer Engineering student at FR.CRCE<br>- 👀 I’m interested in backend<br>- 🌱 I’m currently learning django<br>- 📫 How to reach me @__hxrshdalvi__<br>- 🏆 Webathon 2024 Winner<br>- 🏆 NIT Raipur (CodeUtsava 8.0)<br>- 🏅 SIH 2024 Finalist<br>
 
 
 ## 🌐 Socials:
