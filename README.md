@@ -22,10 +22,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=4i-Harsh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=10)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=4i-Harsh&theme=codeSTACKr&hide_border=false&cache_seconds=10)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=4i-Harsh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=10)
-
+![](https://github-readme-stats.vercel.app/api?username=4i-Harsh&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=true&cache_seconds=10&v=1)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=4i-Harsh&theme=codeSTACKr&hide_border=false&cache_seconds=10&v=1)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=4i-Harsh&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=10&v=1)
 
 
 
