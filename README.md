@@ -1,3 +1,6 @@
+
+![Image](https://private-user-images.githubusercontent.com/160332168/419295514-be678894-e825-4afd-a4aa-5a6111501291.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExNTAxMDIsIm5iZiI6MTc0MTE0OTgwMiwicGF0aCI6Ii8xNjAzMzIxNjgvNDE5Mjk1NTE0LWJlNjc4ODk0LWU4MjUtNGFmZC1hNGFhLTVhNjExMTUwMTI5MS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwNVQwNDQzMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yOTJlNDJjY2RjYjJkOTU4MzM5MzBmMmU3NjE2MzdiM2MxMmUyYzAwYjc3OWU1MjRmODU2MjUxNGVhMDI3ZjU3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.N96H22orFIfJesUNFveZfiQoIuwBFaMfMN20VZH6zkY))
+
 # 💫 About Me:
 # 👨‍💻 Hey 👋, I'm Harsh Dalvi!<br>- Computer Engineering student at FR.CRCE<br>- 👀 I’m interested in backend<br>- 🌱 I’m currently learning django<br>- 📫 How to reach me @__hxrshdalvi__<br>- 🏆 Webathon 2024 Winner<br>- 🏆 NIT Raipur (CodeUtsava 8.0)<br>- 🏅 SIH 2024 Finalist<br>
 
